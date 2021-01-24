@@ -1,18 +1,41 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+*.bak
+*.ddk
+*.edk
+*.lst
+*.lnp
+*.mpf
+*.mpj
+*.obj
+*.omf
+*.plg
+*.rpt
+*.tmp
+*.__i
+*.crf
+*.o
+*.d
+*.axf
+*.tra
+*.dep
+*.iex
+*.uvopt
+*.htm
+*.hsc
+*.lnk
+st.*
+JLinkLog.txt
+.tags
+.tags_sorted_by_file
+~*
+*.map
+*uvgui*
+*.uvoptx
+*.udb
+*.ini
+*.sct
+*.orig
+*.uvguix.*
+build/*
+MDK-ARM/DebugConfig/*
+MDK-ARM/RTE/*
+.vscode/*
